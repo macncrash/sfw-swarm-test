@@ -1,0 +1,5 @@
+# what this project never commits
+*.iso
+secrets/
+larger-than: 1M
+contains: BEGIN PRIVATE KEY
